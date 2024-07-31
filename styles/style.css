@@ -77,6 +77,7 @@ body {
 .apresentacao__links {
     display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: space-between;
     gap: 32px;
 }
